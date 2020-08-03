@@ -56,7 +56,13 @@ font-weight: 100px;
     padding:10px;
 }
 
-
+img {
+    position: absolute;
+    top: 120px;
+    right: 10px;
+    width: 20%;
+    
+}
 
 
 
