@@ -57,11 +57,11 @@ font-weight: 100px;
 }
 
 img {
-    position: absolute;
+    position: fixed;
     top: 120px;
     right: 10px;
     width: 20%;
-    
+    z-index:10;
 }
 
 
