@@ -24,7 +24,7 @@ font-weight: 100px;
 }
 .sidebar{
     background-color: lavender;
-    margin-top: 7px;
+    margin-top: -3px;
     padding-top: 15px;
     position: fixed;
     left:0;
@@ -64,5 +64,20 @@ img {
     z-index:10;
 }
 
+.budget{
+    position: relative;
+    left:200px;
 
+}
 
+h2{
+    position: relative;
+    left:200px;
+}
+.big{
+    font-size: 20px;
+}
+h3{
+    position: relative;
+    left:200px;
+}
