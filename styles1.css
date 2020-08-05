@@ -132,3 +132,19 @@ h3{
     right:20px;
 
 }
+.mint {
+    position: absolute;
+    top: 1500px;
+    right:40px;
+}
+.ynab {
+    position: absolute;
+    top: 1720px;
+    right:10px;
+    width:25%;
+}
+.paint {
+    position: absolute;
+    top:1200px;
+    right:15px;
+}
